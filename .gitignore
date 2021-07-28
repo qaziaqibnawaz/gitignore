@@ -1,2 +1,5 @@
-new-file.txt
+another-file.txt
 file2.txt
+file3.txt
+#ignore files with .tmp
+*.tmp
